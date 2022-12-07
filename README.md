@@ -1,0 +1,1 @@
+# alrosa_autotests
